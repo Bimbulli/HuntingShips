@@ -1,5 +1,6 @@
 <h1 align="center">HuntingShips</h1>
 <h3 align="center">Action-packed space shooting experience featuring challenging enemies, health systems, power-ups, and dynamic levels.</h3>
+
 ![image](https://github.com/Bimbulli/HuntingShips/assets/156709258/3cbfac8d-114f-48d3-b8db-239c846f3e73)
 
 
